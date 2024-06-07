@@ -1,4 +1,4 @@
-# template
+# llm_local
 
  run llm model on local system by llamafile 
 
