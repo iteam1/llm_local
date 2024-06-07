@@ -1,6 +1,6 @@
 # llm_local
 
- run llm model on local system by llamafile 
+ run llm model on local system
 
 # guide llamafile
 
