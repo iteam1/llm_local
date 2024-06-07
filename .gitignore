@@ -10,6 +10,7 @@ tensorboard_logs
 saved_model
 checkpoints
 
+*.llamafile
 *.npz
 *.h5
 *.pb
