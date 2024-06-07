@@ -2,7 +2,7 @@
 
  run llm model on local system by llamafile 
 
-# guide
+# guide llamafile
 
 1. Download [llava-v1.5-7b-q4.llamafile](https://huggingface.co/Mozilla/llava-v1.5-7b-llamafile/resolve/main/llava-v1.5-7b-q4.llamafile?download=true) (4.29 GB)
 
